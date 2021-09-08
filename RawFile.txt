@@ -1,0 +1,123 @@
+POST http://pretest.order.addev.com/order/add HTTP/1.1
+Host: pretest.order.addev.com
+Connection: keep-alive
+Content-Length: 3350
+Accept: application/json, text/javascript, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Origin: http://pretest.order.addev.com
+Referer: http://pretest.order.addev.com/ng
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: PHPSESSID=p161p7i3jlb7amh4h41u847ve0; x-host-key-front=1798d94d2f1-74e78542296dd8ce39a644619c81e9557d93c3c3; x-host-key-ngn=1798d94d2ee-8b3f1088d7ada022fcc6ed330945d35cf43538ca; AdsUserCName=%E8%A2%81%E5%B8%85; AdsUserStaffId=258737; x-host-key-idcback=1798d967cdf-9910642f0f2c2b7008f0f94f1084e81e5ee4723b; x-client-ssid=17a1d36394c-dc2b87e537c1895682d1961764a4127a213f7631; AdsUserName=v_ysyuan; RIO_TCOA_TICKET=tof:20210621_DCC083DEE0826AEA0BA318AFC92A039CC7198198767013ED42E9C84F89490A84D16387DAC8F3125CC8D39E72967C138F88D73C2DCE445808B6B8AB681A5ECCE9A1A874015A36557193C237B8253413CE36E1E373B136C4D65DA9D30F5E188A9CB2C43D7C0D6E199392D9ABD6C2429DAEDE5AC17DB0545F9E4917B4E57EE6214D3DF5F77745198A7AEBD38AE29D5BF0E04FFC7381E0EF223A4C969A8D8FECD66F3733B9C0D8E5BD879AE6DEC288CB94A5; WeProKey=a68e53f594abfe4d04c8b2d881905d93; AdsSessionKey=bD5QKj4c1yQkRORtONhk; OrderSessionKey=bD5QKj4c1yQkRORtONhk
+
+client_id=187130&spa_account_id=187130&ad_type=web&site=QQIM&location_id=1017878&location_type=message&ad_type_id=0&video_site=QQLive&defaultad_location_size=&price_mode=3&purchase_type=B&play_type=P&contract=300&certification=%5B%7B%22file%22%3A%7B%22v%22%3A%22%22%2C%22id%22%3A%22certification_groupContainer_file_14%22%7D%7D%5D&certification_groupContainer_file_14=&show_times=2021-06-21+00%3A00%7C2021-07-20+24%3A00%7C0&loc_display_relation_id=80001757&display_code=qhd_video_msg_shake_card&display_id=80000410&spa_product_type=PRODUCT_TYPE_LINK&spa_is_deeplink=0&schedule_num=1&FormControl_35_201=10&FormControl_80000045_3859=&FormControl_80000045_4102=&FormControl_80000045_4134=N&FormControl_4308_4364=3&FormControl_4308_4365=120&FormControl_4308_4366=1&FormControl_4308_4368=%E6%B5%8B%E8%AF%95-yuan&FormControl_4308_4369=pretest%2Fwebsite%2F202106%2Fo1_1_20210618171224265981.mov&FormControl_4308_4352=Y&FormControl_4308_4361=pretest%2Fwebsite%2F202106%2Fo1_1_20210621142900207561.jpg&FormControl_4308_4362=pretest%2Fqqlive%2F202106%2FLU_BRDS_20210621141403897.mp4&FormControl_4308_4314=pretest%2Fwebsite%2F202106%2Fo1_1_20210621142223183569.jpg&FormControl_4308_4316=Y&FormControl_4308_4370=pretest%2Fwebsite%2F202106%2Fo1_1_20210618171246354.mov&local_shop=&qq_group=&creative_play_mode=2&is_creative_monitor=N&is_creative_brand_product=N&creative%5B0%5D%5Bcreative_name%5D=%E5%88%9B%E6%84%8F_%E5%A5%A5%E8%BF%90%E6%B5%8B%E8%AF%95%E6%8A%95%E6%94%BE%E7%B4%A0%E6%9D%90-%E6%A8%AA%E6%9D%BF%E5%A4%A7%E5%9B%BE_20210621142331080&creative%5B0%5D%5Bplay_times%5D=2021-06-21+00%3A00%7C2021-07-20+24%3A00%7C0&creative%5B0%5D%5Bbrand_product_guid%5D=&creative%5B0%5D%5Bdata%5D%5B0%5D=pretest%2Fwebsite%2F202106%2Fo1_1_20210621142330699799.jpg&creative%5B0%5D%5Bdata%5D%5B1%5D=pretest%2Fwebsite%2F202105%2Fo1_S1_20210525201836966596.mp4&creative%5B0%5D%5Bdata%5D%5B2%5D=%E6%B5%8B%E8%AF%95%E7%8E%AF%E5%A2%83%E6%B5%8B%E8%AF%95&creative%5B0%5D%5Bdata%5D%5B3%5D=%E6%B5%8B%E8%AF%95&creative%5B0%5D%5Bfile_from%5D=2001&creative%5B0%5D%5Bmonitor_url%5D=&creative%5B0%5D%5Bclick_monitor_url%5D=&creative%5B0%5D%5Bspa_dsp_outer_ad_id%5D=&creative%5B0%5D%5Bspa_dsp_ping_monitor_url%5D=&creative%5B0%5D%5Bspa_dsp_click_monitor_url%5D=&creative%5B0%5D%5Bspa_product_items_quantity_mode%5D=PRODUCT_ITEMS_SINGLE&creative%5B0%5D%5Bspa_product_series_id%5D=&creative%5B0%5D%5Bcreative_click_type%5D=link&creative%5B0%5D%5Bclick_url%5D=http%3A%2F%2Fv.qq.com%2F&creative%5B0%5D%5Bclick_url3%5D=&creative%5B0%5D%5Bqq_mini_program_id%5D=&creative%5B0%5D%5Bqq_mini_program_path%5D=&creative%5B0%5D%5Bnews_comment_id%5D=&creative%5B0%5D%5Btarget_info%5D=&creative%5B0%5D%5Bplay_index%5D=1&creative%5B0%5D%5Bweight%5D=0&creative%5B0%5D%5Bclick_string%5D=20210621000006&creative%5B0%5D%5Bcreative_id%5D=&creative%5B0%5D%5Bspa_ad_id%5D=&bidding_creative_ids=&attachment=%5B%7B%22file%22%3A%7B%22v%22%3A%22%22%2C%22id%22%3A%22attachment_groupContainer_file_14%22%7D%7D%5D&attachment_groupContainer_file_14=&target_type=1&uds_ip=I&target_tag=&target_plat=&target_behavior=&suspend_reason=&pro_code=202106210003&order_id=&parent_oid=&schedule_id=&group_id=1000504240001&group_pro_id=111357574&scope_group_id=&from_ng=Y&is_gpb=N&duration=0&qqlive_fodder_width=1280&qqlive_fodder_height=720&priority=10&is_spa=N&spa_tracking_type=TRACKING_TYPE_CLIENT_TO_SERVER&is_mix=Y&sale_channel=1POST http://pretest.order.addev.com/order/add HTTP/1.1
+Host: pretest.order.addev.com
+Connection: keep-alive
+Content-Length: 3350
+Accept: application/json, text/javascript, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Origin: http://pretest.order.addev.com
+Referer: http://pretest.order.addev.com/ng
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: PHPSESSID=p161p7i3jlb7amh4h41u847ve0; x-host-key-front=1798d94d2f1-74e78542296dd8ce39a644619c81e9557d93c3c3; x-host-key-ngn=1798d94d2ee-8b3f1088d7ada022fcc6ed330945d35cf43538ca; AdsUserCName=%E8%A2%81%E5%B8%85; AdsUserStaffId=258737; x-host-key-idcback=1798d967cdf-9910642f0f2c2b7008f0f94f1084e81e5ee4723b; x-client-ssid=17a1d36394c-dc2b87e537c1895682d1961764a4127a213f7631; AdsUserName=v_ysyuan; RIO_TCOA_TICKET=tof:20210621_DCC083DEE0826AEA0BA318AFC92A039CC7198198767013ED42E9C84F89490A84D16387DAC8F3125CC8D39E72967C138F88D73C2DCE445808B6B8AB681A5ECCE9A1A874015A36557193C237B8253413CE36E1E373B136C4D65DA9D30F5E188A9CB2C43D7C0D6E199392D9ABD6C2429DAEDE5AC17DB0545F9E4917B4E57EE6214D3DF5F77745198A7AEBD38AE29D5BF0E04FFC7381E0EF223A4C969A8D8FECD66F3733B9C0D8E5BD879AE6DEC288CB94A5; WeProKey=a68e53f594abfe4d04c8b2d881905d93; AdsSessionKey=bD5QKj4c1yQkRORtONhk; OrderSessionKey=bD5QKj4c1yQkRORtONhk
+
+client_id=187130
+spa_account_id=187130
+ad_type=web
+site=QQIM
+location_id=1017878
+location_type=message
+ad_type_id=0
+video_site=QQLive
+defaultad_location_size=
+price_mode=3
+purchase_type=B
+play_type=P
+contract=300
+certification=%5B%7B%22file%22%3A%7B%22v%22%3A%22%22%2C%22id%22%3A%22certification_groupContainer_file_14%22%7D%7D%5D
+certification_groupContainer_file_14=
+show_times=2021-06-21+00%3A00%7C2021-07-20+24%3A00%7C0
+loc_display_relation_id=80001757
+display_code=qhd_video_msg_shake_card
+display_id=80000410
+spa_product_type=PRODUCT_TYPE_LINK
+spa_is_deeplink=0
+schedule_num=1
+FormControl_35_201=10
+FormControl_80000045_3859=
+FormControl_80000045_4102=
+FormControl_80000045_4134=N
+FormControl_4308_4364=3
+FormControl_4308_4365=120
+FormControl_4308_4366=1
+FormControl_4308_4368=%E6%B5%8B%E8%AF%95-yuan
+FormControl_4308_4369=pretest%2Fwebsite%2F202106%2Fo1_1_20210618171224265981.mov
+FormControl_4308_4352=Y
+FormControl_4308_4361=pretest%2Fwebsite%2F202106%2Fo1_1_20210621142900207561.jpg
+FormControl_4308_4362=pretest%2Fqqlive%2F202106%2FLU_BRDS_20210621141403897.mp4
+FormControl_4308_4314=pretest%2Fwebsite%2F202106%2Fo1_1_20210621142223183569.jpg
+FormControl_4308_4316=Y
+FormControl_4308_4370=pretest%2Fwebsite%2F202106%2Fo1_1_20210618171246354.mov
+local_shop=
+qq_group=
+creative_play_mode=2
+is_creative_monitor=N
+is_creative_brand_product=N
+creative%5B0%5D%5Bcreative_name%5D=%E5%88%9B%E6%84%8F_%E5%A5%A5%E8%BF%90%E6%B5%8B%E8%AF%95%E6%8A%95%E6%94%BE%E7%B4%A0%E6%9D%90-%E6%A8%AA%E6%9D%BF%E5%A4%A7%E5%9B%BE_20210621142331080
+creative%5B0%5D%5Bplay_times%5D=2021-06-21+00%3A00%7C2021-07-20+24%3A00%7C0
+creative%5B0%5D%5Bbrand_product_guid%5D=
+creative%5B0%5D%5Bdata%5D%5B0%5D=pretest%2Fwebsite%2F202106%2Fo1_1_20210621142330699799.jpg
+creative%5B0%5D%5Bdata%5D%5B1%5D=pretest%2Fwebsite%2F202105%2Fo1_S1_20210525201836966596.mp4
+creative%5B0%5D%5Bdata%5D%5B2%5D=%E6%B5%8B%E8%AF%95%E7%8E%AF%E5%A2%83%E6%B5%8B%E8%AF%95
+creative%5B0%5D%5Bdata%5D%5B3%5D=%E6%B5%8B%E8%AF%95
+creative%5B0%5D%5Bfile_from%5D=2001
+creative%5B0%5D%5Bmonitor_url%5D=
+creative%5B0%5D%5Bclick_monitor_url%5D=
+creative%5B0%5D%5Bspa_dsp_outer_ad_id%5D=
+creative%5B0%5D%5Bspa_dsp_ping_monitor_url%5D=
+creative%5B0%5D%5Bspa_dsp_click_monitor_url%5D=
+creative%5B0%5D%5Bspa_product_items_quantity_mode%5D=PRODUCT_ITEMS_SINGLE
+creative%5B0%5D%5Bspa_product_series_id%5D=
+creative%5B0%5D%5Bcreative_click_type%5D=link
+creative%5B0%5D%5Bclick_url%5D=http%3A%2F%2Fv.qq.com%2F
+creative%5B0%5D%5Bclick_url3%5D=
+creative%5B0%5D%5Bqq_mini_program_id%5D=
+creative%5B0%5D%5Bqq_mini_program_path%5D=
+creative%5B0%5D%5Bnews_comment_id%5D=
+creative%5B0%5D%5Btarget_info%5D=
+creative%5B0%5D%5Bplay_index%5D=1
+creative%5B0%5D%5Bweight%5D=0
+creative%5B0%5D%5Bclick_string%5D=20210621000006
+creative%5B0%5D%5Bcreative_id%5D=
+creative%5B0%5D%5Bspa_ad_id%5D=
+bidding_creative_ids=
+attachment=%5B%7B%22file%22%3A%7B%22v%22%3A%22%22%2C%22id%22%3A%22attachment_groupContainer_file_14%22%7D%7D%5D
+attachment_groupContainer_file_14=
+target_type=1
+uds_ip=I
+target_tag=
+target_plat=
+target_behavior=
+suspend_reason=
+pro_code=202106210003
+order_id=
+parent_oid=
+schedule_id=
+group_id=1000504240001
+group_pro_id=111357574
+scope_group_id=
+from_ng=Y
+is_gpb=N
+duration=0
+qqlive_fodder_width=1280
+qqlive_fodder_height=720
+priority=10
+is_spa=N
+spa_tracking_type=TRACKING_TYPE_CLIENT_TO_SERVER
+is_mix=Y
+sale_channel=1
